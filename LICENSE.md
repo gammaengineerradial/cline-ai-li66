@@ -1,4 +1,4 @@
-# 
+# Smart Cline extensions. Featuring contextual-memory and api-integration — optimized for maximum performance and efficiency.
 
 
 
